@@ -1,0 +1,31 @@
+{
+    "item": {
+        "name": "动态疾旋鼬",
+        "description": "可爱的疾旋鼬！资源来自@玖号集市-5群",
+        "preview": [
+            "首页头图.png"
+        ],
+        "icon": "icon.png",
+        "source_url": "https://github.com/Eric-qiqi/Jixuanyou-for-astrobox",
+        "author": [
+            {
+                "name": "Eric齐齐",
+                "author_url": "https://github.com/Eric-qiqi"
+            }
+        ]
+    },
+    "downloads": {
+        "o66": {
+            "version": "1.0",
+            "file_name": "jixuanyou10.bin"
+        },
+        "n66": {
+            "version": "1.0",
+            "file_name": "jixuanyou9.bin"
+        },
+        "n67": {
+            "version": "1.0",
+            "file_name": "jixuanyou9p.bin"
+        }
+    }
+}
